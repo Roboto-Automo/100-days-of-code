@@ -8,14 +8,6 @@
 
 * Escaping Literal Quotes in a String: eg. var string = "John said, \"Hello\"!";
 * Escape sequences 
-* \'	single quote
-* \"	double quote
-* \\	backslash
-* \n	newline
-* \t	tab
-* \r	carriage return
-* \b	word boundary
-* \f	form feed
 * Solidifying Remainder operator in my mind
 * incrementing and decrementing a number variable using i++; and i--;
 * Bracket notation to find values in a string: eg. var string = example let firstLetter = string[0] - returns e
