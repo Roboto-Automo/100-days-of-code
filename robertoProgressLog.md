@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 27, 2023 
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 
