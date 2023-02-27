@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Rob's Log 2023
 
-### Day 0: February 27, 2023 
+### Day 0: February 27 
 
 **Today's Progress**: 
 
