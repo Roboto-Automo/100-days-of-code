@@ -33,4 +33,15 @@ Mainly setting up my workflow today, reaquainting myself with github, slack, not
 **Link to work:** 
 * making this note to remember how to link files in a readme [My twitter account](https://twitter.com/Despirito)
 
+### Day 1: February 28 
 
+**Today's Progress**: 
+
+*grinding through the Freecodecamp tutorials on Javascript data structures*
+
+* learned a few javascript idiosyncracies in the operators.  Hadn't come across type conversion before in swift so the === and !== was new to me.
+* interesting to see how functions differ from swift in the way arguments are passed
+* also interesting to see that else if statements don't necessarily require the 'else' statement to return and else statement with a boolean argument.
+
+**Thoughts:** 
+Started coding late in the evening today since I have been doing a lot of setting up my new house, aim to do a lot more tomorrow. 
