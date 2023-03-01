@@ -58,8 +58,8 @@ Started coding late in the evening today since I have been doing a lot of settin
 return a === b;
 }
 <br>
-<br>
 * Accessing object properties with dot and bracket notation and updating or deleting properties in an object.
+
 
 **Thoughts:** 
 Coded for about 3 hours today, A lot of the concepts I have already covered when learning Swift, but I feel I have to go over all the basics again to pick up the subtle difference in syntax as well as just refamiliarising myself with their application.  Looking forward to leaving tutorial hell and starting to implement the code on a new project.  Also need to get used to putting semi-colons at the end of statements.
