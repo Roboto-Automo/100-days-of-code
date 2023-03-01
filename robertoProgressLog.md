@@ -58,8 +58,8 @@ Started coding late in the evening today since I have been doing a lot of settin
  function isEqual(a, b) { 
  <br>
   return a === b;
-  <br>
 }
+<br>
 * Accessing object properties with dot and bracket notation and updating or deleting properties in an object.
 
 **Thoughts:** 
