@@ -53,7 +53,7 @@ Started coding late in the evening today since I have been doing a lot of settin
 *Still doing the basic Javascript module on the Freecodecamp tutorials in Javascript data structures*
 
 * going over if else statements in Javascript and Switch Statements - making sure to add break; after each statement unlike in Swift.
-* returning a boolean value in a function 
+* returning a boolean value in a function. eg. 
 function isEqual(a, b) { return a === b;}
 
 * Accessing object properties with dot and bracket notation and updating or deleting properties in an object.
