@@ -53,14 +53,11 @@ Started coding late in the evening today since I have been doing a lot of settin
 *Still doing the basic Javascript module on the Freecodecamp tutorials in Javascript data structures*
 
 * going over if else statements in Javascript and Switch Statements - making sure to add break; after each statement unlike in Swift.
-* returning a boolean value in a function <br>
- function isEqual(a, b) { 
-return a === b;
-}
-<br>
+* returning a boolean value in a function 
+function isEqual(a, b) { return a === b;}
+
 * Accessing object properties with dot and bracket notation and updating or deleting properties in an object.
-<br>
-<br>
+
 **Thoughts:** 
 Coded for about 3 hours today, A lot of the concepts I have already covered when learning Swift, but I feel I have to go over all the basics again to pick up the subtle difference in syntax as well as just refamiliarising myself with their application.  Looking forward to leaving tutorial hell and starting to implement the code on a new project.  Also need to get used to putting semi-colons at the end of statements.
 
