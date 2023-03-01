@@ -54,11 +54,11 @@ Started coding late in the evening today since I have been doing a lot of settin
 
 * going over if else statements in Javascript and Switch Statements - making sure to add break; after each statement unlike in Swift.
 * returning a boolean value in a function
- <br>
  function isEqual(a, b) { 
  <br>
   return a === b;
 }
+<br>
 <br>
 * Accessing object properties with dot and bracket notation and updating or deleting properties in an object.
 
