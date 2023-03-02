@@ -63,3 +63,17 @@ Coded for about 3 hours today, A lot of the concepts I have already covered when
 
 My goal is to finish the whole basic javascript module by the end of the week and maybe go back over some html in VS code and make a basic webpage.  Maybe it is overly ambitious although I shouldn't be too hard on myself as I will be starting the bootcamp soon which I'm sure will prove to be intensive.
 
+### Day 3: March 2 
+
+**Today's Progress**: 
+
+*Took a break from Javascript to revisit HTML and CSS*
+
+After having the first pre-course session with School of Code yesterday, I realised I need to brush up on my HTML and CSS fluency.  Although I am a proficient tinkerer in the languages, at the moment, all the tools, their names and their implementation aren't quite at the tip of my tongue.
+
+I decided to start on the technical documentation project on Freecodecamp and skip over tutorials today and see if I could build from scratch using my own knowledge.  My thinking wasn't very lateral in thinking what code to use to make the sidebar, so had to use the developer tools to work out what CSS styling was used. 
+
+**Thoughts:** 
+Spent a couple of hours today tinkering with the technical documentation website.  I'll continue with the HTML/CSS tutorials where I left off last and revise some forgotten concepts and make notes. Will try to complete all the HTML/CSS freecodecamp projects by the weeks end.
+Would like to squeeze in more coding, but have a house to paint, and been distracted with deliveries and planning meals for my new work from home life.  At least the Virgin man came to bring me fast internet!
+
