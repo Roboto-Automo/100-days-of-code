@@ -77,3 +77,28 @@ I decided to start on the technical documentation project on Freecodecamp and sk
 Spent a couple of hours today tinkering with the technical documentation website.  I'll continue with the HTML/CSS tutorials where I left off last and revise some forgotten concepts and make notes. Will try to complete all the HTML/CSS freecodecamp projects by the weeks end.
 Would like to squeeze in more coding, but have a house to paint, and been distracted with deliveries and planning meals for my new work from home life.  At least the Virgin man came to bring me fast internet!
 
+### Day 4: March 3 
+
+**Today's Progress**: 
+
+1 hour of coding mainly refamiliarising myself with Text fields, forms and buttons
+* implementing and revising the code for a form field eg. <form action="mywebsite.com"><input type="text" required placeholder="required"><button type="submit">submit</button>
+
+
+**Thoughts:** 
+Really just managed to squeeze in the coding today after spending all day painting and being exhausted.  Made sure to write all the code out in pen in my notebook to try to memorise and comprehend.
+ 
+### Day 5: March 4 
+
+ 
+**Today's Progress**: 
+
+Squeezed in just over an hour of coding.
+* started with edabit doing simple exercises with functions and calculations
+* looked into Javascript for loops to solve an exercise and drilled into the differences between Swift for loops and Javascript For loops.  Had to get my head around setting the parameters a bit differently.  Will have to revisit this several times I am sure.  
+* passed my first puzzle on codewars refactoring code using a chained ternary operator - I was familiar with the ternary operator, but it was new to me that it can be chained like an else if statement.  Also new to me that the ternary operator can be concatenated with a string when put into brackets.
+
+
+**Thoughts:** 
+
+A Light and relaxed evening session of coding that I tried to make fun after I went out for a long walk along the Enfield Lock to Chingford section of the London Loop.  Was important to blow off the cobwebs.  
