@@ -111,7 +111,7 @@ A Light and relaxed evening session of coding that I tried to make fun after I w
 Hard to track how much coding maybe 3 to 5 hours on and off over a quiet Sunday evening.
 * started with codewars doing some 
  
- [codewars exercise](Roboto-Automo/100-days-of-code/bandname.png)
+ ![alt text](https://github.com/[Roboto-automo]/[100-days-of-code]/blob/[master]/bandname.jpg?raw=true)
 * looked into Javascript for loops to solve an exercise and drilled into the differences between Swift for loops and Javascript For loops.  Had to get my head around setting the parameters a bit differently.  Will have to revisit this several times I am sure.  
 * passed my first puzzle on codewars refactoring code using a chained ternary operator - I was familiar with the ternary operator, but it was new to me that it can be chained like an else if statement.  Also new to me that the ternary operator can be concatenated with a string when put into brackets.
 
