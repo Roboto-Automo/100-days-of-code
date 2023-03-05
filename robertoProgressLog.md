@@ -102,3 +102,20 @@ Squeezed in just over an hour of coding.
 **Thoughts:** 
 
 A Light and relaxed evening session of coding that I tried to make fun after I went out for a long walk along the Enfield Lock to Chingford section of the London Loop.  Was important to blow off the cobwebs.  
+ 
+ ### Day 6: March 5 
+
+ 
+**Today's Progress**: 
+
+Hard to track how much coding maybe 3 to 5 hours on and off over a quiet Sunday evening.
+* started with codewars doing some 
+ 
+ [codewars exercise](100-days-of-code/bandname.png)
+* looked into Javascript for loops to solve an exercise and drilled into the differences between Swift for loops and Javascript For loops.  Had to get my head around setting the parameters a bit differently.  Will have to revisit this several times I am sure.  
+* passed my first puzzle on codewars refactoring code using a chained ternary operator - I was familiar with the ternary operator, but it was new to me that it can be chained like an else if statement.  Also new to me that the ternary operator can be concatenated with a string when put into brackets.
+
+
+**Thoughts:** 
+
+A Light and relaxed evening session of coding that I tried to make fun after I went out for a long walk along the Enfield Lock to Chingford section of the London Loop.  Was important to blow off the cobwebs.  
