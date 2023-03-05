@@ -109,13 +109,24 @@ A Light and relaxed evening session of coding that I tried to make fun after I w
 **Today's Progress**: 
 
 Hard to track how much coding maybe 3 to 5 hours on and off over a quiet Sunday evening.
-* started with codewars doing some 
- 
- ![bandname generator](https://github.com/Roboto-automo/100-days-of-code/blob/master/bandname.png?raw=true)
-* looked into Javascript for loops to solve an exercise and drilled into the differences between Swift for loops and Javascript For loops.  Had to get my head around setting the parameters a bit differently.  Will have to revisit this several times I am sure.  
-* passed my first puzzle on codewars refactoring code using a chained ternary operator - I was familiar with the ternary operator, but it was new to me that it can be chained like an else if statement.  Also new to me that the ternary operator can be concatenated with a string when put into brackets.
 
+ * started with codewars doing some exercises helping me to understand how to take a string as an argument and return an output based on its first and last letter.
+ use the formula: "The" + a noun with the first letter capitalized, for example:
+
+"dolphin" -> "The Dolphin"
+
+However, when a noun STARTS and ENDS with the same letter, she likes to repeat the noun twice and connect them together with the first and last letter, combined into one word (WITHOUT "The" in front), like this:
+
+"alaska" -> "Alaskalaska"
+
+ ![bandname generator](https://github.com/Roboto-automo/100-days-of-code/blob/master/bandname.png?raw=true)
+
+ * I also did some exercises to help my drill down into the use of different types of For loop and what they do.  I discovered Javascript does use a For in loop, although unlike in Swift it is used to iterate over an iterable and return the indexed values as opposed to their content.  Also went over For of loops, For Each loops and regular For loops in a Sheep counting exercise.  
+
+ *Did some VScode troubleshooting whereby Livepreview wasn't locating files I was working on.  Discovered that the whole source file needed to be imported into the workspace for them to be recognised...An important discovery to not hinder me when I will eventually be under pressure to code efficently.
+ 
+ *Unsuccessfully tried to connect html to javascript which prompted me to go back to Freecodecamp and start some of the responsive webDesign activities.  Building a registration form.
 
 **Thoughts:** 
 
-A Light and relaxed evening session of coding that I tried to make fun after I went out for a long walk along the Enfield Lock to Chingford section of the London Loop.  Was important to blow off the cobwebs.  
+Didn't feel like I accomplished as much as I would have liked even though it felt like I had spent a lot of time at the computer.  Again I hope things have been sinking in for my troubles.  Hopefully I can convert the bandname generator into a responsive web app fairly soon.
