@@ -111,13 +111,14 @@ A Light and relaxed evening session of coding that I tried to make fun after I w
 Hard to track how much coding maybe 3 to 5 hours on and off over a quiet Sunday evening.
 
  * started with codewars doing some exercises helping me to understand how to take a string as an argument and return an output based on its first and last letter.
- use the formula: "The" + a noun with the first letter capitalized, for example:
+ 
+*EG. Use the formula: "The" + a noun with the first letter capitalized, for example:
 
 "dolphin" -> "The Dolphin"
 
 However, when a noun STARTS and ENDS with the same letter, she likes to repeat the noun twice and connect them together with the first and last letter, combined into one word (WITHOUT "The" in front), like this:
 
-"alaska" -> "Alaskalaska"
+"alaska" -> "Alaskalaska"*
 
  ![bandname generator](https://github.com/Roboto-automo/100-days-of-code/blob/master/bandname.png?raw=true)
 
