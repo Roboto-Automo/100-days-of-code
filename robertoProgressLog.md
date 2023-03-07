@@ -138,6 +138,9 @@ Didn't feel like I accomplished as much as I would have liked even though it fel
 **Today's Progress**: 
 
 Only managed codewars today, but felt like a satisfying task creating a change machine and then refactoring it once I had knowledge of a new piece of code.
+ 
+ ![change machine](https://github.com/Roboto-automo/100-days-of-code/blob/master/change.png?raw=true)
+  ![refactoring the change machine](https://github.com/Roboto-automo/100-days-of-code/blob/master/refactor.png?raw=true)
 
 **Thoughts:** 
 
