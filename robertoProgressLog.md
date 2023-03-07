@@ -131,3 +131,28 @@ However, when a noun STARTS and ENDS with the same letter, she likes to repeat t
 **Thoughts:** 
 
 Didn't feel like I accomplished as much as I would have liked even though it felt like I had spent a lot of time at the computer.  Again I hope things have been sinking in for my troubles.  Hopefully I can convert the bandname generator into a responsive web app fairly soon.
+ 
+  ### Day 7: March 6 
+
+ 
+**Today's Progress**: 
+
+Only managed codewars today, but felt like a satisfying task creating a change machine and then refactoring it once I had knowledge of a new piece of code.
+
+**Thoughts:** 
+
+I am discovering I prefer the cerebral challenges of code problem solving even more than the UI design and implementation of HTML and CSS. Which may seem counter to my creative tendencies, but I am getting immense satisfaction from the codewars problems.  I'm looking forward to gaining enough coding knowledge to be able to start tackling the more complex problems.
+
+ 
+   ### Day 8: March 7 
+
+ 
+**Today's Progress**: 
+
+Started off the day with a bit of codewars, refactoring some code to make a loop and if statement much shorter.  Ended up googling for help and once again discovering a particular code snippet was required knowledge to be able to solve the problem.
+
+ Spent about 3 hours on FreeCodecamp activities building forms.
+
+ **Thoughts:** 
+
+I will need to start collating all my learnings into some sort of document to help me remember what i've learned and as a simple reference to access reminders quickly.  Be it syntax or concepts.
