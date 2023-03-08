@@ -159,3 +159,14 @@ Started off the day with a bit of codewars, refactoring some code to make a loop
  **Thoughts:** 
 
 I will need to start collating all my learnings into some sort of document to help me remember what i've learned and as a simple reference to access reminders quickly.  Be it syntax or concepts.
+ 
+ ### Day 9: March 8 
+
+ 
+**Today's Progress**: 
+
+Completed Registration Form on Freecodecamp!
+
+ **Thoughts:** 
+
+Was good to brush up on some CSS and get myself using html so that eventually it will all become second nature.  Next thing will be to upload it to Github and brush up on git skills.
