@@ -182,3 +182,19 @@ Squeezed in a late night hour after a long day painting and creating a soundtrac
  **Thoughts:** 
 
 Trying to relax a bit before the course starts and not overdo it as it will surely be an intense few months ahead. Good to go over the basics though.
+ 
+ 
+  ### Day 11: March 10 
+
+ 
+**Today's Progress**: 
+
+Just did a bit of codewars after a long day of working on the flat.  
+ 
+ Learned about Template Literals using `` to insert a ternary operator (or any javascript expression) into a string.  
+ 
+ eg. function chromosomeCheck(sperm) {return `Congratulations! You're going to have a ${sperm === 'XY' ? 'son' : 'daughter'}.`}
+
+ **Thoughts:** 
+
+Nice to learn a new little tidbit of code when going over simple exercises.
