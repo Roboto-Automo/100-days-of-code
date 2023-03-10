@@ -193,7 +193,7 @@ Just did a bit of codewars after a long day of working on the flat.
  
  Learned about Template Literals using `` to insert a ternary operator (or any javascript expression) into a string.  
  
- eg. function chromosomeCheck(sperm) {return ` `Congratulations! You're going to have a ${sperm === 'XY' ? 'son' : 'daughter'}.` `}
+ eg. function chromosomeCheck(sperm) {return \`Congratulations! You're going to have a ${sperm === 'XY' ? 'son' : 'daughter'}.\`}
 
  **Thoughts:** 
 
