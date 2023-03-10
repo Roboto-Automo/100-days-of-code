@@ -170,3 +170,15 @@ Completed Registration Form on Freecodecamp!
  **Thoughts:** 
 
 Was good to brush up on some CSS and get myself using html so that eventually it will all become second nature.  Next thing will be to upload it to Github and brush up on git skills.
+ 
+ 
+  ### Day 10: March 9 
+
+ 
+**Today's Progress**: 
+
+Squeezed in a late night hour after a long day painting and creating a soundtrack for friend's short film.  Just a couple of exercises on Codewars. Utilising a for loop and getting the correct order of execution in an if else statement.
+
+ **Thoughts:** 
+
+Trying to relax a bit before the course starts and not overdo it as it will surely be an intense few months ahead. Good to go over the basics though.
