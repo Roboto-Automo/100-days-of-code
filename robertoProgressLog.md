@@ -198,3 +198,16 @@ Just did a bit of codewars after a long day of working on the flat.
  **Thoughts:** 
 
 Nice to learn a new little tidbit of code when going over simple exercises.
+ 
+   ### Day 12: March 11 
+
+ 
+**Today's Progress**: 
+
+More Codewars  
+
+ Learned a Lesson about spending too long trying to solve a problem, only to find that it was unsolvable at my coding level.  Now I know loops don't like to work with HUGE numbers.
+
+ **Thoughts:** 
+
+Good to learn this lesson when not under too much pressure.
