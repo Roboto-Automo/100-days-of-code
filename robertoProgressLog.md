@@ -211,3 +211,14 @@ More Codewars
  **Thoughts:** 
 
 Good to learn this lesson when not under too much pressure.
+ 
+    ### Day 13: March 12 
+
+ 
+**Today's Progress**: 
+
+ Day before starting bootcamp...no intense coding, just some flashcards to refresh memory on basic concepts
+
+ **Thoughts:** 
+
+Let the real coding commence.
