@@ -212,7 +212,8 @@ More Codewars
 
 Good to learn this lesson when not under too much pressure.
  
-    ### Day 13: March 12 
+    
+ ### Day 13: March 12 
 
  
 **Today's Progress**: 
@@ -222,3 +223,35 @@ Good to learn this lesson when not under too much pressure.
  **Thoughts:** 
 
 Let the real coding commence.
+
+ 
+ ### Day 14: March 13 
+
+ 
+**Today's Progress**: 
+
+ First day of the School of Code.  Mostly learned about the importance of computational thinking.
+ * Understanding the Problem - Making sure you are tackling the correct problem.
+ * Breaking down the Problem - Making the task more manageable focusing on one small step at a time.
+ * Looking for patterns - is there a way to solve the problem at scale and solve multiple problems repeat solutions?
+ * Write an algorithm - this could be a basic instruction to follow, or detailed pseudocode
+ * Program the solution - translate your algorithm into code.
+ 
+ Delved briefly into Agile working systems and the importance of continual feedback to avoid early mistakes.
+
+ **Thoughts:** 
+ 
+ Felt engaged throughout the day, which was promising.  Made sure to get enough sleep for the following sessions.
+
+
+  ### Day 15: March 14 
+
+ 
+**Today's Progress**: 
+
+ 
+
+ **Thoughts:** 
+ 
+
+
