@@ -254,4 +254,23 @@ Let the real coding commence.
  **Thoughts:** 
  
 
+  ### Day 16: March 15 
+
+ 
+**Today's Progress**: 
+
+ 
+
+ **Thoughts:** 
+ 
+ 
+ ### Day 17: March 16 
+
+ 
+**Today's Progress**: 
+
+ 
+
+ **Thoughts:** 
+ 
 
