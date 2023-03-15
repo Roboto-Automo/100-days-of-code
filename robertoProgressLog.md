@@ -249,9 +249,15 @@ Let the real coding commence.
  
 **Today's Progress**: 
 
+ More exercises in computational thinking, with emphasis on algorithmic thinking, practicing planning with flow diagrams and pseudocode before executing code.  Did an exercise in scratch to make a quick password login page that leads to a more or less game.
  
+ Spent some time familiarising myself with github and ironing out some toothing issues such as establishing an ssh key and pushing to a cloned repo.
+ 
+ Was introduced to my mentor who was very reassuring and am looking forward to our future meetings.
 
  **Thoughts:** 
+ 
+ Feel like this is the calm before the storm.
  
 
   ### Day 16: March 15 
@@ -259,10 +265,24 @@ Let the real coding commence.
  
 **Today's Progress**: 
 
+* [Created this password login page](https://github.com/Roboto-Automo/Password-Login-Page)
+* learned a very useful analogy to make a mental map of how code works with pointers and expressions.
+* learned a few extra code function snippets: typeof(), alert(), let name = prompt(""), let name = confirm("")
+* The difference between arguments and parameters in a function
+* While loops, For loops, if statements, functions
+* Used Chrome developer tools to test code
+* Touched briefly on linking Javascript files to Html
+* drilled into the difference between Null and Undefined and NaN
+* data types - Number, String, Boolean, Undefined, Null, Bigint, Symbol, Object, Function
  
+ 
+* Fat arrow function syntax
+ 
+ const add = (x,y) => x + y;   (no need to add 'return' as it is implicit in the syntax)
 
  **Thoughts:** 
  
+ Covered a lot of ground in quite short a space of time.  I had learned some of these fundamentals before in Swift and a little on freecodecamp, but it was good to get a different perspective and broaden my understanding of the concepts.
  
  ### Day 17: March 16 
 
