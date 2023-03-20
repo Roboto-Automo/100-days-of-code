@@ -289,8 +289,47 @@ Let the real coding commence.
  
 **Today's Progress**: 
 
+ Learned about objects and arrays and did some practice activities with partner over zoom.
+ Still trying to overcome some github hurdles.
+ Also did mindset training activities and delved further into johari window and also giving and receiving feedback.
  
 
  **Thoughts:** 
  
+ Everything seems alright.
 
+ ### Day 18: March 17 
+
+ 
+**Today's Progress**: 
+
+Today was the hackathon in which my partner and I made a simple rock-paper-scissors game in javascript using everything we have covered up until this point as well as needing to research additional code for functionality.
+ 
+
+ **Thoughts:** 
+ 
+The bits we struggled on really helped cement our learning.
+ 
+  ### Day 19: March 18 
+
+ 
+**Today's Progress**: 
+
+ Took the rock-paper-scissors game and added it to html to practice a bit of css and also create some extra functionality and see the logic work outside of prompts and pop-ups.
+ 
+
+ **Thoughts:** 
+ 
+Had to do some serious debugging to try to figure out how to get a function call from a button using "onclick=", to make the user name input stay saved to a variable in global scope across all the webpages and not just be called once and disappear.
+
+  ### Day 20: March 19 
+
+ 
+**Today's Progress**: 
+
+ Took some time away from the computer to walk from NewHaven to Lewes.  Did think about code and wrote up my notes when I got home, to 'mow the lawn' and pick up a couple of tidbits I had forgotten.
+ 
+
+ **Thoughts:** 
+ 
+Good to get rid of some of the wired feeling and brain frazzle, ready for Monday morning!
