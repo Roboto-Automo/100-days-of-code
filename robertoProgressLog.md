@@ -333,3 +333,34 @@ Had to do some serious debugging to try to figure out how to get a function call
  **Thoughts:** 
  
 Good to get rid of some of the wired feeling and brain frazzle, ready for Monday morning!
+ 
+   ### Day 21: March 20 
+
+ 
+**Today's Progress**: 
+
+ Did work on manipulating the DOM with document.querySelectors, document.getElementById(), appendChild() , document.title, 
+ Managed to finish the Afternoon's task with group penny doubling scheme.
+ Did more work on my Rock, Paper Scissors game in the evening to futher practice the concepts I'd learned.
+
+ **Thoughts:** 
+ 
+ All the concepts are sinking in, even if the precise code is coming a bit behind and more thought is needed.  Also need to relax and not overthink
+ the code too much as simple things are starting to seem complex when they are indeed simple.
+ 
+   ### Day 22: March 21 
+
+ 
+**Today's Progress**: 
+
+Did some codewars activities with coding partner.  
+Did exercises on EventListeners and manipulating the dom with click and input events.
+Used AI tools to integrate code into Rock Paper Scissors website, Built a new website purely from html and also continued my own site with a mixture
+ of AI and manual coding.
+
+ 
+
+ **Thoughts:** 
+ 
+Using AI is interesting as it is necessary to understand the whole code base and where it will best be integrated.  The tools are helpful but sometimes
+ it is easier to do the code by yourself.
