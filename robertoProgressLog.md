@@ -1,6 +1,6 @@
 # 100 Days Of Code - Rob's Log 2023
 
-### Day 0: February 27 
+      ### Day 0: February 27 
 
 **Today's Progress**: 
 
@@ -33,7 +33,7 @@ Mainly setting up my workflow today, reaquainting myself with github, slack, not
 **Link to work:** 
 * making this note to remember how to link files in a readme [My twitter account](https://twitter.com/Despirito)
 
-     ### Day 1: February 28 
+      ### Day 1: February 28 
 
 **Today's Progress**: 
 
@@ -213,7 +213,7 @@ More Codewars
 Good to learn this lesson when not under too much pressure.
  
     
-   ### Day 13: March 12 
+     ### Day 13: March 12 
 
  
 **Today's Progress**: 
@@ -225,7 +225,7 @@ Good to learn this lesson when not under too much pressure.
 Let the real coding commence.
 
  
-   ### Day 14: March 13 
+     ### Day 14: March 13 
 
  
 **Today's Progress**: 
@@ -426,7 +426,7 @@ I much needed rest to be honest, even though it is supposed to be a daily practi
  Back on the code, 4 hours of revision tasks going over passing data to arrays, fetching API data and passing it into the dom and working with objects and arrays. 
 
  **Thoughts:** 
- 
+ Had to cram it in a narrow window, so hard to know how much was sinking in.
 
     ### Day 28: March 27 
 
