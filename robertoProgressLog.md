@@ -33,7 +33,7 @@ Mainly setting up my workflow today, reaquainting myself with github, slack, not
 **Link to work:** 
 * making this note to remember how to link files in a readme [My twitter account](https://twitter.com/Despirito)
 
-### Day 1: February 28 
+     ### Day 1: February 28 
 
 **Today's Progress**: 
 
@@ -46,7 +46,7 @@ Mainly setting up my workflow today, reaquainting myself with github, slack, not
 **Thoughts:** 
 Started coding late in the evening today since I have been doing a lot of setting up my new house, aim to do a lot more tomorrow. 
 
-### Day 2: March 1 
+      ### Day 2: March 1 
 
 **Today's Progress**: 
 
@@ -63,7 +63,7 @@ Coded for about 3 hours today, A lot of the concepts I have already covered when
 
 My goal is to finish the whole basic javascript module by the end of the week and maybe go back over some html in VS code and make a basic webpage.  Maybe it is overly ambitious although I shouldn't be too hard on myself as I will be starting the bootcamp soon which I'm sure will prove to be intensive.
 
-### Day 3: March 2 
+      ### Day 3: March 2 
 
 **Today's Progress**: 
 
@@ -77,7 +77,7 @@ I decided to start on the technical documentation project on Freecodecamp and sk
 Spent a couple of hours today tinkering with the technical documentation website.  I'll continue with the HTML/CSS tutorials where I left off last and revise some forgotten concepts and make notes. Will try to complete all the HTML/CSS freecodecamp projects by the weeks end.
 Would like to squeeze in more coding, but have a house to paint, and been distracted with deliveries and planning meals for my new work from home life.  At least the Virgin man came to bring me fast internet!
 
-### Day 4: March 3 
+     ### Day 4: March 3 
 
 **Today's Progress**: 
 
@@ -88,7 +88,7 @@ Would like to squeeze in more coding, but have a house to paint, and been distra
 **Thoughts:** 
 Really just managed to squeeze in the coding today after spending all day painting and being exhausted.  Made sure to write all the code out in pen in my notebook to try to memorise and comprehend.
  
-### Day 5: March 4 
+      ### Day 5: March 4 
 
  
 **Today's Progress**: 
@@ -103,7 +103,7 @@ Squeezed in just over an hour of coding.
 
 A Light and relaxed evening session of coding that I tried to make fun after I went out for a long walk along the Enfield Lock to Chingford section of the London Loop.  Was important to blow off the cobwebs.  
  
- ### Day 6: March 5 
+     ### Day 6: March 5 
 
  
 **Today's Progress**: 
@@ -132,7 +132,7 @@ However, when a noun STARTS and ENDS with the same letter, she likes to repeat t
 
 Didn't feel like I accomplished as much as I would have liked even though it felt like I had spent a lot of time at the computer.  Again I hope things have been sinking in for my troubles.  Hopefully I can convert the bandname generator into a responsive web app fairly soon.
  
-  ### Day 7: March 6 
+    ### Day 7: March 6 
 
  
 **Today's Progress**: 
@@ -147,7 +147,7 @@ Only managed codewars today, but felt like a satisfying task creating a change m
 I am discovering I prefer the cerebral challenges of code problem solving even more than the UI design and implementation of HTML and CSS. Which may seem counter to my creative tendencies, but I am getting immense satisfaction from the codewars problems.  I'm looking forward to gaining enough coding knowledge to be able to start tackling the more complex problems.
 
  
-   ### Day 8: March 7 
+     ### Day 8: March 7 
 
  
 **Today's Progress**: 
@@ -160,7 +160,7 @@ Started off the day with a bit of codewars, refactoring some code to make a loop
 
 I will need to start collating all my learnings into some sort of document to help me remember what i've learned and as a simple reference to access reminders quickly.  Be it syntax or concepts.
  
- ### Day 9: March 8 
+     ### Day 9: March 8 
 
  
 **Today's Progress**: 
@@ -172,7 +172,7 @@ Completed Registration Form on Freecodecamp!
 Was good to brush up on some CSS and get myself using html so that eventually it will all become second nature.  Next thing will be to upload it to Github and brush up on git skills.
  
  
-  ### Day 10: March 9 
+    ### Day 10: March 9 
 
  
 **Today's Progress**: 
@@ -184,7 +184,7 @@ Squeezed in a late night hour after a long day painting and creating a soundtrac
 Trying to relax a bit before the course starts and not overdo it as it will surely be an intense few months ahead. Good to go over the basics though.
  
  
-  ### Day 11: March 10 
+    ### Day 11: March 10 
 
  
 **Today's Progress**: 
@@ -199,7 +199,7 @@ Just did a bit of codewars after a long day of working on the flat.
 
 Nice to learn a new little tidbit of code when going over simple exercises.
  
-   ### Day 12: March 11 
+      ### Day 12: March 11 
 
  
 **Today's Progress**: 
@@ -213,7 +213,7 @@ More Codewars
 Good to learn this lesson when not under too much pressure.
  
     
- ### Day 13: March 12 
+   ### Day 13: March 12 
 
  
 **Today's Progress**: 
@@ -225,7 +225,7 @@ Good to learn this lesson when not under too much pressure.
 Let the real coding commence.
 
  
- ### Day 14: March 13 
+   ### Day 14: March 13 
 
  
 **Today's Progress**: 
@@ -244,7 +244,7 @@ Let the real coding commence.
  Felt engaged throughout the day, which was promising.  Made sure to get enough sleep for the following sessions.
 
 
-  ### Day 15: March 14 
+    ### Day 15: March 14 
 
  
 **Today's Progress**: 
@@ -260,7 +260,7 @@ Let the real coding commence.
  Feel like this is the calm before the storm.
  
 
-  ### Day 16: March 15 
+    ### Day 16: March 15 
 
  
 **Today's Progress**: 
@@ -284,7 +284,7 @@ Let the real coding commence.
  
  Covered a lot of ground in quite short a space of time.  I had learned some of these fundamentals before in Swift and a little on freecodecamp, but it was good to get a different perspective and broaden my understanding of the concepts.
  
- ### Day 17: March 16 
+     ### Day 17: March 16 
 
  
 **Today's Progress**: 
@@ -298,7 +298,7 @@ Let the real coding commence.
  
  Everything seems alright.
 
- ### Day 18: March 17 
+     ### Day 18: March 17 
 
  
 **Today's Progress**: 
@@ -310,7 +310,7 @@ Today was the hackathon in which my partner and I made a simple rock-paper-sciss
  
 The bits we struggled on really helped cement our learning.
  
-  ### Day 19: March 18 
+    ### Day 19: March 18 
 
  
 **Today's Progress**: 
@@ -322,7 +322,7 @@ The bits we struggled on really helped cement our learning.
  
 Had to do some serious debugging to try to figure out how to get a function call from a button using "onclick=", to make the user name input stay saved to a variable in global scope across all the webpages and not just be called once and disappear.
 
-  ### Day 20: March 19 
+    ### Day 20: March 19 
 
  
 **Today's Progress**: 
@@ -334,7 +334,7 @@ Had to do some serious debugging to try to figure out how to get a function call
  
 Good to get rid of some of the wired feeling and brain frazzle, ready for Monday morning!
  
-   ### Day 21: March 20 
+     ### Day 21: March 20 
 
  
 **Today's Progress**: 
@@ -348,7 +348,7 @@ Good to get rid of some of the wired feeling and brain frazzle, ready for Monday
  All the concepts are sinking in, even if the precise code is coming a bit behind and more thought is needed.  Also need to relax and not overthink
  the code too much as simple things are starting to seem complex when they are indeed simple.
  
-   ### Day 22: March 21 
+     ### Day 22: March 21 
 
  
 **Today's Progress**: 
