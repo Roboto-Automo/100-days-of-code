@@ -434,10 +434,12 @@ I much needed rest to be honest, even though it is supposed to be a daily practi
 **Today's Progress**: 
 
 Typing up notes and doing repetition training on certain code expressions(asynch functions, creatingElements, document.getElementByID("id-name").appendChild(variableName) )
+      learned more about Agile working practices, UX/UI and started to play with CSS flexbox and CSS grid positioning items on a page.
  
 
  **Thoughts:** 
  
+      The flex commands were a revelation in CSS styling so I am looking forward to implementing them in future projects.
 
  
     ### Day 29: March 28 
