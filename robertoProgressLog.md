@@ -364,3 +364,90 @@ Used AI tools to integrate code into Rock Paper Scissors website, Built a new we
  
 Using AI is interesting as it is necessary to understand the whole code base and where it will best be integrated.  The tools are helpful but sometimes
  it is easier to do the code by yourself.
+ 
+    ### Day 23: March 22 
+
+ 
+**Today's Progress**: 
+
+Learned about Synchronous and Asynchronous Programming, fetch() and awaiting promises, SetTimeout and SetInterval functions and parsing Json files.
+
+Also did git practice with mentor learning about git stash, git pop and merging conflicts.
+
+ **Thoughts:** 
+ need to do repeat tasks on this.
+
+ 
+    ### Day 24: March 23 
+
+ 
+**Today's Progress**: 
+
+Made a simple clock application, mindset and communication training, learned about accessibility in web design and had a talk about UX/UI
+
+ 
+
+ **Thoughts:** 
+ Relaxing day allowing the week to process
+
+ 
+    ### Day 25: March 24 
+
+ 
+**Today's Progress**: 
+
+
+Hackathon day, pair programming to create a little quiz app.
+ 
+
+ **Thoughts:** 
+ 
+We worked well as a team and managed to get a fully functioning quiz in the short time we had.
+ 
+    ### Day 26: March 25 
+
+ 
+**Today's Progress**: 
+
+No code today...I know it is supposed to be 100 consecutive days, but sometimes life gets in the way.  And it isn't healthy to be beholden to 
+ arbitrary goals
+
+ 
+
+ **Thoughts:** 
+ 
+I much needed rest to be honest, even though it is supposed to be a daily practice, I think the sheer number of hours put in during the week more than makes up for a short break.
+ 
+    ### Day 27: March 26 
+
+ 
+**Today's Progress**: 
+
+ Back on the code, 4 hours of revision tasks going over passing data to arrays, fetching API data and passing it into the dom and working with objects and arrays. 
+
+ **Thoughts:** 
+ 
+
+    ### Day 28: March 27 
+
+ 
+**Today's Progress**: 
+
+Typing up notes and doing repetition training on certain code expressions(asynch functions, creatingElements, document.getElementByID("id-name").appendChild(variableName) )
+ 
+
+ **Thoughts:** 
+ 
+
+ 
+    ### Day 29: March 28 
+
+ 
+**Today's Progress**: 
+
+
+ 
+
+ **Thoughts:** 
+ 
+
